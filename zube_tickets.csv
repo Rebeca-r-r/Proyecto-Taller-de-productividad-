@@ -1,0 +1,16 @@
+Title,Description,Epic
+Requisitos del sistema,Definir requerimientos funcionales.,Análisis y Planeación
+Modelo de datos,Diseñar modelo de datos preliminar.,Análisis y Planeación
+Wireframes,Crear wireframes de todas las pantallas.,Diseño UX/UI
+CRUD Productos,Desarrollar CRUD de productos.,Backend Beta
+CRUD Categorías,Desarrollar CRUD de categorías.,Backend Beta
+Entradas Inventario,Implementar módulo de entradas.,Backend Beta
+Salidas Inventario,Implementar módulo de salidas.,Backend Beta
+Pantalla Productos,Frontend para productos.,Frontend Beta
+Historial Movimientos,Pantalla para movimientos.,Frontend Beta
+Reportes Básicos,Reportes simples.,Frontend Beta
+Roles Avanzados,Implementar roles avanzados.,Backend GA
+Dashboard Final,Diseño de dashboard.,Frontend GA
+Reportes Avanzados,Reportes con filtros y exportación.,Frontend GA
+Despliegue Producción,Subir sistema a servidor.,Integración y Despliegue GA
+Documentación Final,Manuales y documentación técnica.,Documentación y Cierre
