@@ -1,4 +1,4 @@
-src/test/java/com/miempresa/inventario/AppTest.java
+package com.miempresa.inventario;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
