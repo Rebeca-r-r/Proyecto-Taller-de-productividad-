@@ -1,0 +1,11 @@
+/target/
+*.class
+*.log
+*.tmp
+*.bak
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.jar
